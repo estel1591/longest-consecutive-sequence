@@ -1,3 +1,4 @@
 module.exports = function longestConsecutiveLength(array) {
-  // your solution here
+  //check Pull requests
+    // some text here
 }
